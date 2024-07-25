@@ -1,7 +1,0 @@
-body {
-    color: midnightblue
-    background-color:antiquewhite
-}
-h1 {color: azure; background-color: blueviolet
-h2 {color: blueviolet;}
-a {color:blueviolet;}

@@ -1,7 +1,7 @@
 body {
-    color: midnightblue
-    background-color:antiquewhite
+    color: rgb(0, 0, 5);
+    background-color:rgb(49, 224, 201);
 }
-h1 {color: azure; background-color: blueviolet
+h1 {color: azure; background-color: blueviolet;}
 h2 {color: blueviolet;}
 a {color:blueviolet;}
